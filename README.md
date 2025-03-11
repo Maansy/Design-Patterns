@@ -19,7 +19,7 @@
 2. Strategy
 3. Command
 
-## Strategy Design Pattern
+## 1. Strategy Design Pattern
 - Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.
 - Strategy pattern is also known as Policy Pattern.
 
@@ -123,3 +123,5 @@ vehicle_context.drive()
 Driving Car
 Driving Bike
 ```
+
+## 2. Observer Design Pattern
